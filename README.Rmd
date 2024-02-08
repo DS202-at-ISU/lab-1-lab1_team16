@@ -46,5 +46,7 @@ I sent my changes to GitHub my clicking the green push button.
 
 # 12.6 Confirm the local change propagated to the GitHub remote 
 
-I refreshed my browser and saw the changes and the message. 
+I refreshed my browser and saw the changes and the message.
+
+Hazer - I just cloned the repo and am making my first commit.
 
