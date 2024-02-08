@@ -48,5 +48,6 @@ I sent my changes to GitHub my clicking the green push button.
 
 I refreshed my browser and saw the changes and the message.
 
-Hazer - I just cloned the repo and am making my first commit.
+Hazer - I just cloned the repo and am making my first commit.\
+I also Knit to update readme.md
 

@@ -17,4 +17,34 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-This is a line from RStudio
+# 12.1 Prerequisites
+
+I registered for a github account, installed r and r studio, installed
+git, introduced myself to git, and confirmed I can push to / pull from
+the command line.
+
+# 12.2 Make a repo on GitHub
+
+I created the lab1_team16 team and copied the code url for it.
+
+# 12.3 Clone the test GitHub repository to your computer via RStudio
+
+I did file, new project, version control, git, and then copied the url
+for the lab1_team16 repository.
+
+# 12.4 Make local Changes, save, commit
+
+I modified the md file by adding “This is a line from RStudio” In
+RStudio: Clicked the “Git” tab in upper right pane. Check “Staged” box
+for README.md. Type a message in “Commit message” Click “Commit”.
+
+# 12.5 Push your local changes online to GitHub
+
+I sent my changes to GitHub my clicking the green push button.
+
+# 12.6 Confirm the local change propagated to the GitHub remote
+
+I refreshed my browser and saw the changes and the message.
+
+Hazer - I just cloned the repo and am making my first commit.  
+I also Knit to update readme.md
