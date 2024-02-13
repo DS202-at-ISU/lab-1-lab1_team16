@@ -51,4 +51,4 @@ I also Knit to update readme.md
 
 This is a line from RStudio - By Siddhartha Gudipudi
 I cloned the repo and made chesges in from RStudio an commited then pushed it. i'm familier with github by some classes and projects I did. 
-This is my first commit.
+This is my first commit and push into github
