@@ -51,3 +51,17 @@ I refreshed my browser and saw the changes and the message.
 Hazer - I just cloned the repo and am making my first commit.\
 I also Knit to update readme.md
 
+My Lab 1 Experience (Siddhartha Gudipudi):
+12.1 Prerequisites: I completed of all prerequisite steps, which includes registration on GitHub, installation of R, RStudio, and Git, and successful push/pull verification.
+
+12.2 Make a repo on GitHub: I created a new repository on GitHub.
+
+12.3 Clone the test GitHub repository to your computer via RStudio: I initiated a new RStudio Project using Version Control, pasted the GitHub repository URL, and successfully cloned the project into Rstudio.
+
+This is line from R studio- Siddhartha Gudipudi
+
+12.4 Make local changes, save, commit: I added a line to the README file in RStudio, saved it, and then clicked 'Commit'.
+12.5 Push your local changes online to GitHub: I clicked the "Push" button in RStudio to upload my changes to GitHub..
+
+12.6 Confirm the local change propagated to the GitHub remote: After refreshing the GitHub page, I verified that the changes I made in RStudio are in github.
+
